@@ -1,0 +1,6 @@
+{
+  "name": "Lightweight VPN",
+  "description": "A lightweight VPN client for custom DNS routing and MTU tuning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
